@@ -1,0 +1,6 @@
+framework module Pods_CleanArchExample {
+  umbrella header "Pods-CleanArchExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
